@@ -1,0 +1,43 @@
+   <!-- Header Area Start-->
+   <header class="header-area-3 stiky">
+      <div class="container header-3">
+         <div class="row align-items-center">
+            <div class="col-xl-3 col-lg col-md-6 col-6">
+               <!-- ca-logo -->
+               <div class="ca-logo">
+                  <a href="index-03.php"><img src="assets/contiship-logistics/logo.png" alt="" style="width:45%"></a>
+               </div>
+            </div>
+            <div class="col-xl-6 col-lg-7 d-none d-lg-block">
+               <!-- ca-main-menu -->
+               <div class="ca-main-menu-3">
+                  <nav class="ca-mobile-menu-active-3">
+                     <ul>
+                        <li><a href="index.php">Home</a></li>
+                        <li><a href="about.php">About Us</a></li>
+                        <li><a href="service.php">Service</a></li>
+                        <li><a href="projects.php">Gallery</a></li>
+                        <li><a href="contact.php">Contact</a></li>
+                     </ul>
+                  </nav>
+               </div>
+            </div>
+            <div class="col-xl-3 col-lg col-md-6 col-6">
+               <!-- ca-btn -->
+               <div class="ca-btn-header d-none d-lg-block text-end">
+                  <a href="contact.php" class="ca-btn-primary-3 theme-bg-3 text-white br-50">Get A Quote <span><i class="fa-solid fa-angle-right"></i></span></a>
+               </div>
+               <div class="ca-header-action-item d-lg-none text-end">
+                  <button type="button" class="ca-offcanvas-toogle">
+                     <svg xmlns="http://www.w3.org/2000/svg" width="30" height="16" viewBox="0 0 30 16">
+                        <rect x="10" width="20" height="2" fill="currentColor"></rect>
+                        <rect x="5" y="7" width="25" height="2" fill="currentColor"></rect>
+                        <rect x="10" y="14" width="20" height="2" fill="currentColor"></rect>
+                     </svg>
+                  </button>
+               </div>
+            </div>
+         </div>
+      </div>
+   </header>
+   <!-- Header area end -->
