@@ -7367,3 +7367,39 @@ button.ca-btn-primary.ca-btn-primary-2 span {
 	}
 }
 
+
+
+/*toast*/
+#toast-container {
+	position: fixed;
+	top: 20px;
+	right: 20px;
+	z-index: 9999;
+}
+
+.toast {
+	visibility: hidden;
+	min-width: 200px;
+	margin-bottom: 10px;
+	padding: 15px;
+	color: #fff;
+	background-color: #333;
+	border-radius: 5px;
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+	transition: visibility 0s, opacity 0.5s linear;
+	opacity: 0;
+}
+
+.toast.show {
+	visibility: visible;
+	opacity: 1;
+}
+
+.toast.success {
+	background-color: #4caf50;
+}
+
+.toast.error {
+	background-color: #f44336;
+}
+

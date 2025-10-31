@@ -66,7 +66,7 @@
                         </div>
                         <div class="ca-location-icbox-text">
                            <h4 class="ca-title fnw-600 theme-black-3 pb-16">Contact Us</h4>
-                           <a href="tel:+0221234568806">+91-44-4266548</a> <br>
+                           <a href="tel:+91444266548">+91-44-4266548</a> <br>
                         </div>
                      </div>
                   </div>
@@ -81,6 +81,7 @@
                         <div class="ca-location-icbox-text">
                            <h4 class="ca-title fnw-600 theme-black-3 pb-16">Email Us</h4>
                            <a href="mailto:admin@contiship.in">admin@contiship.in</a>
+                           <a href="mailto:chennai@contiship.in">chennai@contiship.in</a>
                         </div>
                      </div>
                   </div>
@@ -103,33 +104,24 @@
                   <h4 class="ca-title fnw-600 theme-black-3 pb-16">Send Us Message</h4>
                   <p class="pb-32">Your email address will not be published. Required fields are marked *</p>
                   <div class="ca-cmt-from">
-                     <form action="#">
+                     <div id="toast-container"></div>
+                     <form  id="contactForm">
                         <div class="row">
                            <div class="col-lg-6 mb-20">
-                              <input type="text" placeholder="First Name">
+                              <input type="text" placeholder="Name" name="contact-name" id="contact-name">
                            </div>
                            <div class="col-lg-6 mb-20">
-                              <input type="text" placeholder="Last Name">
+                              <input type="text" placeholder="phone" name="contact-phone" id="contact-phone">
                            </div>
                            <div class="col-lg-6 mb-20">
-                              <input type="email" placeholder="Email">
+                              <input type="email" placeholder="Email" name="contact-email" id="contact-email">
                            </div>
                            <div class="col-lg-6 mb-20">
-                              <select class="nice-select wide ca-select" style="display: none;">
-                                 <option data-display="Service Type">Nothing</option>
-                                 <option value="1">01</option>
-                                 <option value="2">02</option>
-                                 <option value="3">03</option>
-                                 <option value="4">04</option>
-                              </select>
+                              <input type="text" placeholder="Subject" name="contact-subject" id="contact-subject">
                            </div>
                            <div class="col-lg-12 mb-20">
-                              <textarea name="message" id="message" placeholder="Message"></textarea>
+                              <textarea name="message" placeholder="Message" name="contact-message" id="contact-message"></textarea>
                            </div>
-                        </div>
-                        <div class="ca-radion-btn">
-                           <input type="radio" id="saveinfo" name="fav_language" value="saveinfo">
-                           <label for="saveinfo">Save the information's in this browser for next time use</label>
                         </div>
                         <div class="ca-blg-sen-btn text-start">
                            <button type="submit" class="ca-btn-primary-3 theme-bg-3 text-white br-50"> Submit Now <span><i class="fa-solid fa-angle-right"></i></span></button>

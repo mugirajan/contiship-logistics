@@ -9,3 +9,6 @@
    <script src="assets/js/waypoints.min.js"></script>
    <script src="assets/js/aos.js"></script>
    <script src="assets/js/main.js"></script>
+
+   <script src="assets/js/mailer.js"></script>
+   <script src="assets/js/mailHelper.js"></script>

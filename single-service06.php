@@ -52,15 +52,18 @@
                      <div class="ca-search ca-padding cream-bg-3 br-7 mb-30">
                         <h4 class="ca-title fnw-600 theme-black-3 pb-24">Get A Free Quote</h4>
                         <div class="ca-sidebar-form">
-                           <form action="#">
-                              <input type="text" placeholder="Your Name">
-                              <input type="email" placeholder="Email Address">
-                              <input type="tel" placeholder="Phone Number">
-                              <textarea name="message" id="message" rows="10" cols="4" placeholder="Your Message"></textarea>
+                           <form id="serviceForm" method="POST" action="">
+                              <input type="text" placeholder="Your Name" id="name" name="name" required>
+                              <input type="email" placeholder="Email Address" id="email" name="email" required>
+                              <input type="tel" placeholder="Phone Number" id="tel" name="tel" required>
+                              <textarea placeholder="Your Message" id="message" name="message" rows="5" required></textarea>
+
+                              <div class="ca-sidebar-form-btn text-end">
+                                 <button type="submit" class="ca-btn-primary-3 theme-bg-3 text-white br-50">
+                                    Contact Now <span><i class="fa-solid fa-angle-right"></i></span>
+                                 </button>
+                              </div>
                            </form>
-                           <div class="ca-sidebar-form-btn text-end">
-                              <a href="#" class="ca-btn-primary-3 theme-bg-3 text-white br-50">Contact Now <span><i class="fa-solid fa-angle-right"></i></span></a>
-                           </div>
                         </div>
                      </div>
                      <!-- phone us -->

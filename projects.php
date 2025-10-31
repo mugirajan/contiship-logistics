@@ -42,158 +42,219 @@
       <div class="ca-projects-iner pt-100 pb-100">
          <div class="container">
             <div class="row">
-               <div class="col-xl-4 col-md-6">
-                  <!-- single-portfolio-item -->
-                  <div class="ca-single-portfolio-item sm-img p-relative z-index-1 fix mb-30">
+
+               <div class="col-xl-4 col-md-6 mb-30">
+                  <div class="ca-single-portfolio-item p-relative z-index-1 fix">
                      <div class="ca-portfolio-img">
-                        <img class="w-100 br-7" src="assets/img/portfolio/portfolio-sm-1.1.png" alt="">
-                     </div>
-                     <div class="ca-portfolio-link">
-                        <a href="#" class="portfolio-link portfolio-link-2"><span><img src="assets/img/icon/ca-portfolio-arrow-1.1.svg" alt=""></span></a>
-                     </div>
-                     <div class="ca-portfolio-content-meta theme-bg-3 br-7">
-                        <p>Transportation 2024</p>
-                        <h4 class="ca-por-title"><a href="#">Experts in Logistics Management</a></h4>
-                     </div>
-                  </div>
-                  <!-- single-portfolio-item -->
-                  <div class="ca-single-portfolio-item big-img p-relative z-index-1 fix mb-30">
-                     <div class="ca-portfolio-img">
-                        <img class="w-100 br-7" src="assets/img/portfolio/portfolio-big-1.1.png" alt="">
-                     </div>
-                     <div class="ca-portfolio-link">
-                        <a href="#" class="portfolio-link portfolio-link-2"><span><img src="assets/img/icon/ca-portfolio-arrow-1.1.svg" alt=""></span></a>
-                     </div>
-                     <div class="ca-portfolio-content-meta theme-bg-3 br-7">
-                        <p>Transportation 2024</p>
-                        <h4 class="ca-por-title"><a href="#">Experts in Logistics Management</a></h4>
-                     </div>
-                  </div>
-               </div>
-               <div class="col-xl-4 col-md-6">
-                  <!-- single-portfolio-item -->
-                  <div class="ca-single-portfolio-item big-img p-relative z-index-1 fix mb-30">
-                     <div class="ca-portfolio-img">
-                        <img class="w-100 br-7" src="assets/img/portfolio/portfolio-big-1.1.png" alt="">
-                     </div>
-                     <div class="ca-portfolio-link">
-                        <a href="#" class="portfolio-link portfolio-link-2"><span><img src="assets/img/icon/ca-portfolio-arrow-1.1.svg" alt=""></span></a>
-                     </div>
-                     <div class="ca-portfolio-content-meta theme-bg-3 br-7">
-                        <p>Transportation 2024</p>
-                        <h4 class="ca-por-title"><a href="#">Experts in Logistics Management</a></h4>
-                     </div>
-                  </div>
-                  <!-- single-portfolio-item -->
-                  <div class="ca-single-portfolio-item sm-img p-relative z-index-1 fix mb-30">
-                     <div class="ca-portfolio-img">
-                        <img class="w-100 br-7" src="assets/img/portfolio/portfolio-sm-1.2.png" alt="">
-                     </div>
-                     <div class="ca-portfolio-link">
-                        <a href="#" class="portfolio-link portfolio-link-2"><span><img src="assets/img/icon/ca-portfolio-arrow-1.1.svg" alt=""></span></a>
-                     </div>
-                     <div class="ca-portfolio-content-meta theme-bg-3 br-7">
-                        <p>Transportation 2024</p>
-                        <h4 class="ca-por-title"><a href="#">Experts in Logistics Management</a></h4>
-                     </div>
-                  </div>
-               </div>
-               <div class="col-xl-4 col-md-6">
-                  <!-- single-portfolio-item -->
-                  <div class="ca-single-portfolio-item sm-img p-relative z-index-1 fix mb-30">
-                     <div class="ca-portfolio-img">
-                        <img class="w-100 br-7" src="assets/img/portfolio/portfolio-sm-1.3.png" alt="">
-                     </div>
-                     <div class="ca-portfolio-link">
-                        <a href="#" class="portfolio-link portfolio-link-2"><span><img src="assets/img/icon/ca-portfolio-arrow-1.1.svg" alt=""></span></a>
-                     </div>
-                     <div class="ca-portfolio-content-meta theme-bg-3 br-7">
-                        <p>Transportation 2024</p>
-                        <h4 class="ca-por-title"><a href="#">Experts in Logistics Management</a></h4>
-                     </div>
-                  </div>
-                  <!-- single-portfolio-item -->
-                  <div class="ca-single-portfolio-item big-img p-relative z-index-1 fix mb-30">
-                     <div class="ca-portfolio-img">
-                        <img class="w-100 br-7" src="assets/img/portfolio/portfolio-big-1.3.png" alt="">
-                     </div>
-                     <div class="ca-portfolio-link">
-                        <a href="#" class="portfolio-link portfolio-link-2"><span><img src="assets/img/icon/ca-portfolio-arrow-1.1.svg" alt=""></span></a>
-                     </div>
-                     <div class="ca-portfolio-content-meta theme-bg-3 br-7">
-                        <p>Transportation 2024</p>
-                        <h4 class="ca-por-title"><a href="#">Experts in Logistics Management</a></h4>
+                        <img class="w-100 br-7" src="assets/contiship-logistics/gallery/1.jpg" alt="">
                      </div>
                   </div>
                </div>
 
-               <div class="col-xl-4 col-md-6">
-                  <!-- single-portfolio-item -->
-                  <div class="ca-single-portfolio-item sm-img p-relative z-index-1 fix mb-30">
+               <div class="col-xl-4 col-md-6 mb-30">
+                  <div class="ca-single-portfolio-item p-relative z-index-1 fix">
                      <div class="ca-portfolio-img">
-                        <img class="w-100 br-7" src="assets/img/portfolio/portfolio-sm-1.4.png" alt="">
-                     </div>
-                     <div class="ca-portfolio-link">
-                        <a href="#" class="portfolio-link portfolio-link-2"><span><img src="assets/img/icon/ca-portfolio-arrow-1.1.svg" alt=""></span></a>
-                     </div>
-                     <div class="ca-portfolio-content-meta theme-bg-3 br-7">
-                        <p>Transportation 2024</p>
-                        <h4 class="ca-por-title"><a href="#">Experts in Logistics Management</a></h4>
+                        <img class="w-100 br-7" src="assets/contiship-logistics/gallery/2.jpg" alt="">
                      </div>
                   </div>
                </div>
-               <div class="col-xl-4 col-md-6">
-                  <!-- single-portfolio-item -->
-                  <div class="ca-single-portfolio-item sm-img p-relative z-index-1 fix mb-30">
+
+               <div class="col-xl-4 col-md-6 mb-30">
+                  <div class="ca-single-portfolio-item p-relative z-index-1 fix">
                      <div class="ca-portfolio-img">
-                        <img class="w-100 br-7" src="assets/img/portfolio/portfolio-sm-1.5.png" alt="">
-                     </div>
-                     <div class="ca-portfolio-link">
-                        <a href="#" class="portfolio-link portfolio-link-2"><span><img src="assets/img/icon/ca-portfolio-arrow-1.1.svg" alt=""></span></a>
-                     </div>
-                     <div class="ca-portfolio-content-meta theme-bg-3 br-7">
-                        <p>Transportation 2024</p>
-                        <h4 class="ca-por-title"><a href="#">Experts in Logistics Management</a></h4>
+                        <img class="w-100 br-7" src="assets/contiship-logistics/gallery/3.jpg" alt="">
                      </div>
                   </div>
                </div>
-               <div class="col-xl-4 col-md-6">
-                  <!-- single-portfolio-item -->
-                  <div class="ca-single-portfolio-item sm-img p-relative z-index-1 fix mb-30">
+
+               <div class="col-xl-4 col-md-6 mb-30">
+                  <div class="ca-single-portfolio-item p-relative z-index-1 fix">
                      <div class="ca-portfolio-img">
-                        <img class="w-100 br-7" src="assets/img/portfolio/portfolio-sm-1.6.png" alt="">
-                     </div>
-                     <div class="ca-portfolio-link">
-                        <a href="#" class="portfolio-link portfolio-link-2"><span><img src="assets/img/icon/ca-portfolio-arrow-1.1.svg" alt=""></span></a>
-                     </div>
-                     <div class="ca-portfolio-content-meta theme-bg-3 br-7">
-                        <p>Transportation 2024</p>
-                        <h4 class="ca-por-title"><a href="#">Experts in Logistics Management</a></h4>
+                        <img class="w-100 br-7" src="assets/contiship-logistics/gallery/4.jpg" alt="">
                      </div>
                   </div>
                </div>
+
+               <div class="col-xl-4 col-md-6 mb-30">
+                  <div class="ca-single-portfolio-item p-relative z-index-1 fix">
+                     <div class="ca-portfolio-img">
+                        <img class="w-100 br-7" src="assets/contiship-logistics/gallery/5.jpg" alt="">
+                     </div>
+                  </div>
+               </div>
+
+               <div class="col-xl-4 col-md-6 mb-30">
+                  <div class="ca-single-portfolio-item p-relative z-index-1 fix">
+                     <div class="ca-portfolio-img">
+                        <img class="w-100 br-7" src="assets/contiship-logistics/gallery/6.jpg" alt="">
+                     </div>
+                  </div>
+               </div>
+
+               <div class="col-xl-4 col-md-6 mb-30">
+                  <div class="ca-single-portfolio-item p-relative z-index-1 fix">
+                     <div class="ca-portfolio-img">
+                        <img class="w-100 br-7" src="assets/contiship-logistics/gallery/7.jpg" alt="">
+                     </div>
+                  </div>
+               </div>
+
+               <div class="col-xl-4 col-md-6 mb-30">
+                  <div class="ca-single-portfolio-item p-relative z-index-1 fix">
+                     <div class="ca-portfolio-img">
+                        <img class="w-100 br-7" src="assets/contiship-logistics/gallery/8.jpg" alt="">
+                     </div>
+                  </div>
+               </div>
+
+               <div class="col-xl-4 col-md-6 mb-30">
+                  <div class="ca-single-portfolio-item p-relative z-index-1 fix">
+                     <div class="ca-portfolio-img">
+                        <img class="w-100 br-7" src="assets/contiship-logistics/gallery/9.jpg" alt="">
+                     </div>
+                  </div>
+               </div>
+
+               <div class="col-xl-4 col-md-6 mb-30">
+                  <div class="ca-single-portfolio-item p-relative z-index-1 fix">
+                     <div class="ca-portfolio-img">
+                        <img class="w-100 br-7" src="assets/contiship-logistics/gallery/10.jpg" alt="">
+                     </div>
+                  </div>
+               </div>
+
+               <div class="col-xl-4 col-md-6 mb-30">
+                  <div class="ca-single-portfolio-item p-relative z-index-1 fix">
+                     <div class="ca-portfolio-img">
+                        <img class="w-100 br-7" src="assets/contiship-logistics/gallery/11.jpg" alt="">
+                     </div>
+                  </div>
+               </div>
+
+               <div class="col-xl-4 col-md-6 mb-30">
+                  <div class="ca-single-portfolio-item p-relative z-index-1 fix">
+                     <div class="ca-portfolio-img">
+                        <img class="w-100 br-7" src="assets/contiship-logistics/gallery/12.jpg" alt="">
+                     </div>
+                  </div>
+               </div>
+
+               <div class="col-xl-4 col-md-6 mb-30">
+                  <div class="ca-single-portfolio-item p-relative z-index-1 fix">
+                     <div class="ca-portfolio-img">
+                        <img class="w-100 br-7" src="assets/contiship-logistics/gallery/13.jpg" alt="">
+                     </div>
+                  </div>
+               </div>
+
+               <div class="col-xl-4 col-md-6 mb-30">
+                  <div class="ca-single-portfolio-item p-relative z-index-1 fix">
+                     <div class="ca-portfolio-img">
+                        <img class="w-100 br-7" src="assets/contiship-logistics/gallery/14.jpg" alt="">
+                     </div>
+                  </div>
+               </div>
+
+               <div class="col-xl-4 col-md-6 mb-30">
+                  <div class="ca-single-portfolio-item p-relative z-index-1 fix">
+                     <div class="ca-portfolio-img">
+                        <img class="w-100 br-7" src="assets/contiship-logistics/gallery/15.jpg" alt="">
+                     </div>
+                  </div>
+               </div>
+
+               <div class="col-xl-4 col-md-6 mb-30">
+                  <div class="ca-single-portfolio-item p-relative z-index-1 fix">
+                     <div class="ca-portfolio-img">
+                        <img class="w-100 br-7" src="assets/contiship-logistics/gallery/16.jpg" alt="">
+                     </div>
+                  </div>
+               </div>
+
+               <div class="col-xl-4 col-md-6 mb-30">
+                  <div class="ca-single-portfolio-item p-relative z-index-1 fix">
+                     <div class="ca-portfolio-img">
+                        <img class="w-100 br-7" src="assets/contiship-logistics/gallery/17.jpg" alt="">
+                     </div>
+                  </div>
+               </div>
+
+               <div class="col-xl-4 col-md-6 mb-30">
+                  <div class="ca-single-portfolio-item p-relative z-index-1 fix">
+                     <div class="ca-portfolio-img">
+                        <img class="w-100 br-7" src="assets/contiship-logistics/gallery/18.jpg" alt="">
+                     </div>
+                  </div>
+               </div>
+
+               <div class="col-xl-4 col-md-6 mb-30">
+                  <div class="ca-single-portfolio-item p-relative z-index-1 fix">
+                     <div class="ca-portfolio-img">
+                        <img class="w-100 br-7" src="assets/contiship-logistics/gallery/19.jpg" alt="">
+                     </div>
+                  </div>
+               </div>
+
+               <div class="col-xl-4 col-md-6 mb-30">
+                  <div class="ca-single-portfolio-item p-relative z-index-1 fix">
+                     <div class="ca-portfolio-img">
+                        <img class="w-100 br-7" src="assets/contiship-logistics/gallery/20.jpg" alt="">
+                     </div>
+                  </div>
+               </div>
+
+               <div class="col-xl-4 col-md-6 mb-30">
+                  <div class="ca-single-portfolio-item p-relative z-index-1 fix">
+                     <div class="ca-portfolio-img">
+                        <img class="w-100 br-7" src="assets/contiship-logistics/gallery/21.jpg" alt="">
+                     </div>
+                  </div>
+               </div>
+
+               <div class="col-xl-4 col-md-6 mb-30">
+                  <div class="ca-single-portfolio-item p-relative z-index-1 fix">
+                     <div class="ca-portfolio-img">
+                        <img class="w-100 br-7" src="assets/contiship-logistics/gallery/22.jpg" alt="">
+                     </div>
+                  </div>
+               </div>
+
+               <div class="col-xl-4 col-md-6 mb-30">
+                  <div class="ca-single-portfolio-item p-relative z-index-1 fix">
+                     <div class="ca-portfolio-img">
+                        <img class="w-100 br-7" src="assets/contiship-logistics/gallery/23.jpg" alt="">
+                     </div>
+                  </div>
+               </div>
+
+               <div class="col-xl-4 col-md-6 mb-30">
+                  <div class="ca-single-portfolio-item p-relative z-index-1 fix">
+                     <div class="ca-portfolio-img">
+                        <img class="w-100 br-7" src="assets/contiship-logistics/gallery/24.jpg" alt="">
+                     </div>
+                  </div>
+               </div>
+
+               <div class="col-xl-4 col-md-6 mb-30">
+                  <div class="ca-single-portfolio-item p-relative z-index-1 fix">
+                     <div class="ca-portfolio-img">
+                        <img class="w-100 br-7" src="assets/contiship-logistics/gallery/25.jpg" alt="">
+                     </div>
+                  </div>
+               </div>
+
+               <div class="col-xl-4 col-md-6 mb-30">
+                  <div class="ca-single-portfolio-item p-relative z-index-1 fix">
+                     <div class="ca-portfolio-img">
+                        <img class="w-100 br-7" src="assets/contiship-logistics/gallery/26.jpg" alt="">
+                     </div>
+                  </div>
+               </div>
+
             </div>
-            <!-- pagination -->
-
-
-            <div class="row">
-               <div class="col-12 m-auto">
-                  <div class="theme-pagination text-center">
-                     <ul>
-                        <li><a href="#"><i class="fa-solid fa-angle-left"></i></a></li>
-                        <li><a class="active" href="#">01</a></li>
-                        <li><a href="#">02</a></li>
-                        <li>...</li>
-                        <li><a href="#">12</a></li>
-                        <li><a href="#"><i class="fa-solid fa-angle-right"></i></a></li>
-                     </ul>
-                  </div>
-               </div>
-            </div>
-
-
          </div>
       </div>
+
    </main>
 
    <button id="topBtn3"><i class="fa-solid fa-arrow-up"></i></button>

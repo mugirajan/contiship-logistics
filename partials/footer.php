@@ -34,9 +34,9 @@
                         </div>
                         <div class="ca-footer-social ca-footer-social-3">
                            <ul>
-                              <li><a href="#"><i class="fa-brands fa-instagram"></i></a></li>
+                              <li><a href=""><i class="fa-brands fa-instagram"></i></a></li>
                               <li><a href="#"><i class="fa-brands fa-facebook-f"></i></a></li>
-                              <li><a href="#"><i class="fa-brands fa-linkedin-in"></i></a></li>
+                              <li><a href="https://in.linkedin.com/in/contiship-logistics-p-ltd-251a1992?original_referer=https%3A%2F%2Fwww.google.co.in%2F" target="_blank"><i class="fa-brands fa-linkedin-in"></i></a></li>
                               <li><a href="#"><i class="fa-brands fa-x-twitter"></i></a></li>
                            </ul>
                         </div>
@@ -73,17 +73,11 @@
                   </div>
                   <div class="col-xl-3 col-md-6 mb-30">
                      <div class="ca-footer">
-                        <h4 class="ca-title fnw-700 theme-black-3 pb-24">Other Links</h4>
+                        <h4 class="ca-title fnw-700 theme-black-3 pb-24">Scan the QR for Query</h4>
                         <div class="ca-ft-content">
-                           <p class="pb-32">Subscribe us & receive our latest news & articles</p>
+                           <img src="assets/contiship-logistics/qr-scan.jpg" alt="" style="width:45%">
                         </div>
-                        <div class="ca-footer-email-sub ca-footer-email-sub-3">
-                           <form action="#">
-                              <input type="email" placeholder="Email Address..">
-                           </form>
-                           <button class="ca-btn-primary ca-btn-primary-3 theme-bg-3 text-white br-50" type="submit" value="submit">Subscribe Now <span><i class="fa-solid fa-angle-right"></i></span></button>
-                        </div>
-                     </div>
+\                     </div>
                   </div>
                </div>
                <div class="row">
@@ -91,7 +85,7 @@
                      <div class="copy-right-border border-1"></div>
                   </div>
                   <div class="col-lg-6">
-                     <p class="copry-right-text pt-24">Copyright &COPY;2024 Cargon. All Rights Reserved</p>
+                     <p class="copry-right-text pt-24">Copyright &COPY;2025 Contiship. All Rights Reserved</p>
                   </div>
                   <div class="col-lg-6">
                      <div class="copy-right-menu pt-24">
