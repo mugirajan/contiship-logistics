@@ -27,7 +27,7 @@
                   <div class="col-xl-4 col-md-6 mb-30">
                      <div class="ca-footer widget-1">
                         <div class="ca-ft-logo">
-                           <a href="index-03.php"><img src="assets/contiship-logistics/logo.png" alt=""></a>
+                           <a href="index-03.php"><img src="assets/contiship-logistics/logo.png" alt="" style="width:45%"></a>
                         </div>
                         <div class="ca-ft-content ca-ft-content-3 mb-24">
                            <p class="pt-16">Our global reach, combined with local <br> expertise, ensures that your goods are <br>transported safely, on time.</p>
@@ -42,7 +42,7 @@
                         </div>
                      </div>
                   </div>
-                  <div class="col-xl col-md-6 mb-30">
+                  <div class="col-xl-2 col-md-6 mb-30">
                      <div class="ca-footer widget-2">
                         <h4 class="ca-title fnw-700 theme-black-3 pb-24">Quick Links</h4>
                         <div class="ca-footer-menu ca-footer-menu-3">
@@ -50,28 +50,29 @@
                               <li><a href="index.php">Home</a></li>
                               <li><a href="service.php">Service</a></li>
                               <li><a href="about.php">About Us</a></li>
-                              <li><a href="blog.php">Latest News</a></li>
+                              <li><a href="projects.php">Gallery</a></li>
                               <li><a href="contact.php">Contact Us</a></li>
                            </ul>
                         </div>
                      </div>
                   </div>
-                  <div class="col-xl col-md-6 mb-30">
-                     <div class="ca-footer widget-3">
+                  <div class="col-xl-3 col-md-6 mb-30">
+                     <div class="ca-footer">
                         <h4 class="ca-title fnw-700 theme-black-3 pb-24">Other Links</h4>
                         <div class="ca-footer-menu ca-footer-menu-3">
                            <ul>
-                              <li><a href="#">Maintenance</a></li>
-                              <li><a href="#">Our Team</a></li>
-                              <li><a href="#">Reviews & Awards</a></li>
-                              <li><a href="#">Personal</a></li>
-                              <li><a href="#">Certifications</a></li>
+                              <li><a href="single-service01.php">Efficient Freight Transportation</a></li>
+                              <li><a href="single-service02.php">Smooth Customs Clearance</a></li>
+                              <li><a href="single-service03.php">Streamlined Warehousing and Distribution</a></li>
+                              <li><a href="single-service04.php">Tailored Supply Chain Management</a></li>
+                              <li><a href="single-service05.php">Expert Project Cargo Handling</a></li>
+                              <li><a href="single-service06.php">Marine Insurance</a></li>
                            </ul>
                         </div>
                      </div>
                   </div>
-                  <div class="col-xl-4 col-md-6 mb-30">
-                     <div class="ca-footer widget-4">
+                  <div class="col-xl-3 col-md-6 mb-30">
+                     <div class="ca-footer">
                         <h4 class="ca-title fnw-700 theme-black-3 pb-24">Other Links</h4>
                         <div class="ca-ft-content">
                            <p class="pb-32">Subscribe us & receive our latest news & articles</p>

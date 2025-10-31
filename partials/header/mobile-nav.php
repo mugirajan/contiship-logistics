@@ -3,7 +3,7 @@
       <div class="ca-offcanvas-wrapper">
          <div class="ca-offcanvas-header d-flex justify-content-between align-items-center mb-40">
             <div class="ca-offcanvas-logo">
-               <a href="#"><img src="assets/contiship-logistics/logo.png" alt=""></a>
+               <a href="#"><img src="assets/contiship-logistics/logo.png" alt="" style="width:50%"></a>
             </div>
             <div class="ca-offcanvas-close">
                <button class="ca-offcanvas-close-toggle"><i class="fal fa-times"></i></button>

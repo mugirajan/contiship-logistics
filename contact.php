@@ -50,8 +50,8 @@
                         </div>
                         <div class="ca-location-icbox-text">
                            <h4 class="ca-title fnw-600 theme-black-3 pb-16">Our Address</h4>
-                           <p>55 Street, 2nd block, 3rd Floor<br>
-                              Melbourne, Australia
+                           <p>
+                              #49/25, Thambu Chetty St., 1st Floor, Parrys, Chennai - 600 001
                            </p>
                         </div>
                      </div>
@@ -66,8 +66,7 @@
                         </div>
                         <div class="ca-location-icbox-text">
                            <h4 class="ca-title fnw-600 theme-black-3 pb-16">Contact Us</h4>
-                           <a href="tel:+0221234568806">+022 (123) 456 88 06</a> <br>
-                           <a href="tel:+47122109878">(+47) 1221 09 878</a>
+                           <a href="tel:+0221234568806">+91-44-4266548</a> <br>
                         </div>
                      </div>
                   </div>
@@ -81,8 +80,7 @@
                         </div>
                         <div class="ca-location-icbox-text">
                            <h4 class="ca-title fnw-600 theme-black-3 pb-16">Email Us</h4>
-                           <a href="mailto:">infocargon@gmail.com</a>
-                           <a href="mailto:">drmtech99.com</a>
+                           <a href="mailto:admin@contiship.in">admin@contiship.in</a>
                         </div>
                      </div>
                   </div>
