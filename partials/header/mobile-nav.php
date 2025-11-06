@@ -26,8 +26,7 @@
                   </span>
                </div>
                <div class="ca-sm-single-item-4-content">
-                  <p><a href="#">55 Street, 2nd block, 3rd Floor
-                        Melbourne, Australia</a></p>
+                  <p><a href="#"> #49/25, Thambu Chetty St., 1st Floor, Parrys, Chennai - 600 001</a></p>
                </div>
             </div>
 
@@ -39,7 +38,7 @@
                   </span>
                </div>
                <div class="ca-sm-single-item-4-content">
-                  <p><a href="tel:+0221234568806">+022 (123) 456 88 06</a></p>
+                  <p><a href="tel:+91444266548">+91-44-4266548</a></p>
                </div>
             </div>
 
@@ -51,7 +50,7 @@
                   </span>
                </div>
                <div class="ca-sm-single-item-4-content">
-                  <p><a href="mailto:infocargon@gmail.com">infocargon@gmail.com</a></p>
+                  <p><a href="mailto:admin@contiship.in">admin@contiship.in</a></p>
                </div>
             </div>
          </div>

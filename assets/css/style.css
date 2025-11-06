@@ -7403,3 +7403,28 @@ button.ca-btn-primary.ca-btn-primary-2 span {
 	background-color: #f44336;
 }
 
+@media (max-width:800px) and (min-width:600px){
+    .ca-about-4{
+        padding-top:70px;
+    }
+    .contiship-md{
+        display: none;
+    }
+}
+
+@media (max-width:599px){
+    .ca-about-4{
+        padding-top:50px;
+    }
+    .slide .expand-slide-img {
+        height: 520px;
+        object-fit: cover;
+        width:100%;
+    }
+    .slider-expand-img.active{
+        height:570px;
+    }
+    .ca-choose-content3{
+        margin-right:0px;
+    }
+}

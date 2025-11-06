@@ -28,7 +28,7 @@
                <div class="row">
                   <div class="col-lg-6 col-md-8 mb-30">
                      <div class="ca-slider-content-2 p-relative">
-                        <h5 class="ca-section-subtitle subtitle-bg-5 text-white theme-color-2">Contiship Logistics</h5>
+                        <h5 class="ca-section-subtitle subtitle-bg-5 text-white theme-color-2 contiship-md">Contiship Logistics</h5>
                         <h3 class="ca-slider-heading text-white pt-20 ca-text-cap fs-1">stay updated with</h3>
                         <h1 class="ca-slider-heading text-white pt-20 pb-20 ca-text-cap">indian customs notifications </h1>
                         <p class="pb-32 slider-sub-content">Check out Notifications related to your Shipments</p>
@@ -52,7 +52,7 @@
                <div class="row">
                   <div class="col-lg-6 col-md-8 mb-30">
                      <div class="ca-slider-content-2 p-relative">
-                        <h5 class="ca-section-subtitle subtitle-bg-5 text-white theme-color-2">Contiship Logistics</h5>
+                        <h5 class="ca-section-subtitle subtitle-bg-5 text-white theme-color-2 contiship-md">Contiship Logistics</h5>
                         <h3 class="ca-slider-heading text-white pt-20 ca-text-cap fs-1">connect with us for</h3>
                         <h1 class="ca-slider-heading text-white pt-20 pb-20 ca-text-cap">Trade consultations</h1>
                         <p class="pb-32 slider-sub-content">Want to Import or Export something new! Connect with us to Know More</p>
@@ -75,7 +75,7 @@
                <div class="row">
                   <div class="col-lg-6 col-md-8 mb-30">
                      <div class="ca-slider-content-2 p-relative">
-                        <h5 class="ca-section-subtitle subtitle-bg-5 text-white theme-color-2">Contiship Logistics</h5>
+                        <h5 class="ca-section-subtitle subtitle-bg-5 text-white theme-color-2 contiship-md">Contiship Logistics</h5>
                         <h3 class="ca-slider-heading text-white pt-20 ca-text-cap fs-1">Welcome To</h3>
                         <h1 class="ca-slider-heading text-white pt-20 pb-20 ca-text-cap">Contiship Logistics</h1>
                         <p class="pb-32 slider-sub-content">We are a leading authorized Customs House Agents having its own License to operate in the major ports of India.</p>
@@ -196,7 +196,7 @@
          <!-- expand gallery start -->
          <div class="expand-container">
             <!-- single item -->
-            <div class="slide">
+            <div class="slide slider-expand-img">
                <img class="expand-slide-img" src="assets/img/service/ca-expand-gallery3.1.png" alt="">
                <div class="expand-slide-ic-box">
                   <h2 class="ca-expand-title"><a href="#">Efficient Freight Transportation</a></h2>
@@ -206,7 +206,7 @@
                </div>
             </div>
             <!-- single item -->
-            <div class="slide">
+            <div class="slide slider-expand-img">
                <img class="expand-slide-img" src="assets/img/service/ca-expand-gallery3.2.png" alt="">
                <div class="expand-slide-ic-box">
                   <h2 class="ca-expand-title"><a href="#">Smooth Customs Clearance</a></h2>
@@ -216,7 +216,7 @@
                </div>
             </div>
             <!-- single item -->
-            <div class="slide active">
+            <div class="slide active slider-expand-img">
                <img class="expand-slide-img" src="assets/img/service/ca-expand-gallery3.2.png" alt="">
                <div class="expand-slide-ic-box">
                   <h2 class="ca-expand-title"><a href="#">Streamlined Warehousing and Distribution</a></h2>
@@ -227,7 +227,7 @@
             </div>
          </div>
          <div class="expand-container">
-            <div class="slide">
+            <div class="slide slider-expand-img">
                <img class="expand-slide-img" src="assets/img/service/ca-expand-gallery3.1.png" alt="">
                <div class="expand-slide-ic-box">
                   <h2 class="ca-expand-title"><a href="#">Tailored Supply Chain Management</a></h2>
@@ -236,7 +236,7 @@
                </div>
             </div>
             <!-- single item -->
-            <div class="slide">
+            <div class="slide slider-expand-img">
                <img class="expand-slide-img" src="assets/img/service/ca-expand-gallery3.2.png" alt="">
                <div class="expand-slide-ic-box">
                   <h2 class="ca-expand-title"><a href="#">Expert Project Cargo Handling</a></h2>
@@ -245,7 +245,7 @@
                </div>
             </div>
             <!-- single item -->
-            <div class="slide">
+            <div class="slide slider-expand-img">
                <img class="expand-slide-img" src="assets/img/service/ca-expand-gallery3.2.png" alt="">
                <div class="expand-slide-ic-box">
                   <h2 class="ca-expand-title"><a href="#">Marine Insurance</a></h2>
