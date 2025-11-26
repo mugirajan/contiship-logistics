@@ -31,7 +31,7 @@
                <div class="it-breadcum-link">
                   <a href="index.php">Home</a>
                   <span><i class="fa-solid fa-angle-right"></i></span>
-                  <a href="projects.php">Project</a>
+                  <a href="gallery.php">Project</a>
                   <span><i class="fa-solid fa-angle-right"></i></span>
                   <a class="active" href="#">Customs Clearance Excellence</a>
                </div>

@@ -53,7 +53,7 @@
                         <h4 class="ca-blog-title ca-blog-title-3 fnw-600"><a href="#">Efficient Freight Transportation</a></h4>
                         <p class="pt-16 pb-18">Air Freight: When time is of the essence, our air freight services ensure swift and reliable delivery of your goods to any destination worldwide.</p>
                         <div class="blog-3-rearmore">
-                           <a href="single-service01.php" class="read-more3">Read More <span><i class="fa-solid fa-angle-right"></i></span></a>
+                           <a href="efficient-freight-transportation.php" class="read-more3">Read More <span><i class="fa-solid fa-angle-right"></i></span></a>
                         </div>
                      </div>
                   </div>
@@ -68,7 +68,7 @@
                         <h4 class="ca-blog-title ca-blog-title-3 fnw-600"><a href="#">Smooth Customs Clearance</a></h4>
                         <p class="pt-16 pb-18">Expert Documentation Handling: Let our experienced team handle the complexities of customs paperwork, ensuring accurate and timely clearance for your shipments.</p>
                         <div class="blog-3-rearmore">
-                           <a href="single-service02.php" class="read-more3">Read More <span><i class="fa-solid fa-angle-right"></i></span></a>
+                           <a href="smooth-customs-clearance.php" class="read-more3">Read More <span><i class="fa-solid fa-angle-right"></i></span></a>
                         </div>
                      </div>
                   </div>
@@ -84,7 +84,7 @@
                         <h4 class="ca-blog-title ca-blog-title-3 fnw-600"><a href="#">Streamlined Warehousing and Distribution</a></h4>
                         <p class="pt-16 pb-18">Secure Storage Facilities: Trust our state-of-the-art warehouses to keep your goods safe and secure, with advanced security measures .</p>
                         <div class="blog-3-rearmore">
-                           <a href="single-service03.php" class="read-more3">Read More <span><i class="fa-solid fa-angle-right"></i></span></a>
+                           <a href="streamlined-warehousing-and-distribution.php" class="read-more3">Read More <span><i class="fa-solid fa-angle-right"></i></span></a>
                         </div>
                      </div>
                   </div>
@@ -99,7 +99,7 @@
                         <h4 class="ca-blog-title ca-blog-title-3 fnw-600"><a href="#">Tailored Supply Chain Management</a></h4>
                         <p class="pt-16 pb-18">Proactive Vendor Management: We work closely with your suppliers to ensure seamless coordination and timely delivery of materials, keeping your supply chain running smoothly.</p>
                         <div class="blog-3-rearmore">
-                           <a href="single-service04.php" class="read-more3">Read More <span><i class="fa-solid fa-angle-right"></i></span></a>
+                           <a href="tailored-supply-chain-management.php" class="read-more3">Read More <span><i class="fa-solid fa-angle-right"></i></span></a>
                         </div>
                      </div>
                   </div>
@@ -114,7 +114,7 @@
                         <h4 class="ca-blog-title ca-blog-title-3 fnw-600"><a href="#">Expert Project Cargo Handling</a></h4>
                         <p class="pt-16 pb-18">Specialized Equipment and Expertise: From heavy machinery to oversized equipment, our specialized handling capabilities ensure safe and efficient transportation of your project cargo.</p>
                         <div class="blog-3-rearmore">
-                           <a href="single-service05.php" class="read-more3">Read More <span><i class="fa-solid fa-angle-right"></i></span></a>
+                           <a href="expert-project-cargo-handling.php" class="read-more3">Read More <span><i class="fa-solid fa-angle-right"></i></span></a>
                         </div>
                      </div>
                   </div>
@@ -129,7 +129,7 @@
                         <h4 class="ca-blog-title ca-blog-title-3 fnw-600"><a href="#">Marine Insurance</a></h4>
                         <p class="pt-16 pb-18">Navigating the complex waters of marine insurance: CLPL is the partner for the leading Marine Insurance Consultancy - TATA AIG for Import/Export and inland transit.</p>
                         <div class="blog-3-rearmore">
-                           <a href="single-service06.php" class="read-more3">Read More <span><i class="fa-solid fa-angle-right"></i></span></a>
+                           <a href="marine-insurance.php" class="read-more3">Read More <span><i class="fa-solid fa-angle-right"></i></span></a>
                         </div>
                      </div>
                   </div>

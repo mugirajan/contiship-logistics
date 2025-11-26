@@ -24,7 +24,7 @@ class sndMail
         $mail->SMTPAuth = true;
         $mail->Username = "contact@blackitechs.com";
         $mail->Password = "Contact@bits#737";
-        $mail->setFrom("contact@blackitechs.com", "Mail From IQ Robots");
+        $mail->setFrom("contact@blackitechs.com", "Mail From Contiship Logistics");
         return $mail;
     }
 
@@ -40,11 +40,11 @@ class sndMail
             $mail->Body = "
             Dear {$data['name']},
     
-            Thank you for reaching out to IQ Robots. I hope this message finds you well.
+            Thank you for reaching out to Contiship Logistics. I hope this message finds you well.
     
     
             Thanks & Regards,
-            IQ Robots Team
+            Contiship Logistics Team
             ";
     
 
@@ -93,11 +93,11 @@ class sndMail
             $mail->Body = "
             Dear {$data['name']},
     
-            Thank you for reaching out to IQ Robots. I hope this message finds you well.
+            Thank you for reaching out to Contiship Logistics. I hope this message finds you well.
     
     
             Thanks & Regards,
-            IQ Robots Team
+            Contiship Logistics Team
             ";
     
 

@@ -51,6 +51,7 @@
                      <!-- sidebar contact -->
                      <div class="ca-search ca-padding cream-bg-3 br-7 mb-30">
                         <h4 class="ca-title fnw-600 theme-black-3 pb-24">Get A Free Quote</h4>
+                        <div id="toast-container"></div>
                         <div class="ca-sidebar-form">
                            <form id="serviceForm" method="POST" action="">
                               <input type="text" placeholder="Your Name" id="name" name="name" required>

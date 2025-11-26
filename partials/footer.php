@@ -50,7 +50,7 @@
                               <li><a href="index.php">Home</a></li>
                               <li><a href="service.php">Service</a></li>
                               <li><a href="about.php">About Us</a></li>
-                              <li><a href="projects.php">Gallery</a></li>
+                              <li><a href="gallery.php">Gallery</a></li>
                               <li><a href="contact.php">Contact Us</a></li>
                            </ul>
                         </div>
@@ -61,12 +61,12 @@
                         <h4 class="ca-title fnw-700 theme-black-3 pb-24">Other Links</h4>
                         <div class="ca-footer-menu ca-footer-menu-3">
                            <ul>
-                              <li><a href="single-service01.php">Efficient Freight Transportation</a></li>
-                              <li><a href="single-service02.php">Smooth Customs Clearance</a></li>
-                              <li><a href="single-service03.php">Streamlined Warehousing and Distribution</a></li>
-                              <li><a href="single-service04.php">Tailored Supply Chain Management</a></li>
-                              <li><a href="single-service05.php">Expert Project Cargo Handling</a></li>
-                              <li><a href="single-service06.php">Marine Insurance</a></li>
+                              <li><a href="efficient-freight-transportation.php">Efficient Freight Transportation</a></li>
+                              <li><a href="smooth-customs-clearance.php">Smooth Customs Clearance</a></li>
+                              <li><a href="streamlined-warehousing-and-distribution.php">Streamlined Warehousing and Distribution</a></li>
+                              <li><a href="tailored-supply-chain-management.php">Tailored Supply Chain Management</a></li>
+                              <li><a href="expert-project-cargo-handling.php">Expert Project Cargo Handling</a></li>
+                              <li><a href="marine-insurance.php">Marine Insurance</a></li>
                            </ul>
                         </div>
                      </div>

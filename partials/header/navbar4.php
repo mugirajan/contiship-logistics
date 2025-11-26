@@ -56,7 +56,7 @@
                             <li>
                                 <a href="#">Project <span><i class="fa-solid fa-angle-down"></i></span></a>
                                 <ul class="sub-menu">
-                                    <li><a href="projects.php">Project</a></li>
+                                    <li><a href="gallery.php">Project</a></li>
                                     <li><a href="project-left.php">Project Left</a></li>
                                     <li><a href="project-right.php">Project Right</a></li>
                                     <li><a href="project-single.php">Project Single</a></li>

@@ -28,13 +28,13 @@
          </div>
          <div class="container">
             <div class="ca-breadcrumb-content text-center">
-               <h2 class="ca-breadcrumb-title fnw-600">Expert Project Cargo Handling</h2>
+               <h2 class="ca-breadcrumb-title fnw-600">Streamlined Warehousing and Distribution</h2>
                <div class="it-breadcum-link">
                   <a href="index.php">Home</a>
                   <span><i class="fa-solid fa-angle-right"></i></span>
                   <a href="service.php">Service</a>
                   <span><i class="fa-solid fa-angle-right"></i></span>
-                  <a class="active" href="#">Expert Project Cargo Handling</a>
+                  <a class="active" href="#">Streamlined Warehousing and Distribution</a>
                </div>
             </div>
          </div>
@@ -52,6 +52,7 @@
                      <div class="ca-search ca-padding cream-bg-3 br-7 mb-30">
                         <h4 class="ca-title fnw-600 theme-black-3 pb-24">Get A Free Quote</h4>
                         <div class="ca-sidebar-form">
+                           <div id="toast-container"></div>
                            <form id="serviceForm" method="POST" action="">
                               <input type="text" placeholder="Your Name" id="name" name="name" required>
                               <input type="email" placeholder="Email Address" id="email" name="email" required>
@@ -95,22 +96,34 @@
                <div class="col-lg-8 mb-30">
                   <div class="ca-service-content-area">
                      <div class="ca-servic-thumb br-7 mb-40">
-                        <img class="w-100" src="assets/contiship-logistics/service/single-service05/service.webp" alt="">
+                        <img class="w-100" src="assets/contiship-logistics/service/single-service03/service-one.jpg" alt="">
                      </div>
                      <div class="ca-servic-thumb-content">
-                        <h2 class="ca-service-thumb-title theme-black-3 fnw-600 ca-text-cap">Expert Project Cargo Handling</h2>
+                        <h2 class="ca-service-thumb-title theme-black-3 fnw-600 ca-text-cap">Streamlined Warehousing and Distribution</h2>
                         
                         <div class="d-flex justify-content-center align-items-center pt-16">
                               <div class="ca-ab-sngle-item-ic">
                                  <span><i class="fa-solid fa-check"></i></span>
                               </div>
-                              <p>Specialized Equipment and Expertise: From heavy machinery to oversized equipment, our specialized handling capabilities ensure safe and efficient transportation of your project cargo.</p>
+                              <p>Secure Storage Facilities: Trust our state-of-the-art warehouses to keep your goods safe and secure, with advanced security measures .</p>
                         </div>
                         <div class="d-flex justify-content-center align-items-center pt-16">
                               <div class="ca-ab-sngle-item-ic">
                                  <span><i class="fa-solid fa-check"></i></span>
                               </div>
-                              <p>Customized Logistics Solutions: We understand that every project is unique. Our dedicated team develops tailored logistics solutions to meet your specifi c project requirements, delivering peace of mind and exceptional service every step of the way.</p>
+                              <p>Efficient Inventory Management: Our cutting-edge inventory management systems ensure real-time visibility of your stock levels, optimizing inventory turnover and reducing holding costs.</p>
+                        </div>
+                        <div class="d-flex justify-content-center align-items-center pt-16">
+                              <div class="ca-ab-sngle-item-ic">
+                                 <span><i class="fa-solid fa-check"></i></span>
+                              </div> 
+                              <p>Prompt Order Fulfi llment: From order processing to shipping, our streamlined fulfi llment process ensures your customers receive their orders promptly and accurately.</p>
+                        </div>
+                         <div class="d-flex justify-content-center align-items-center pt-16">
+                              <div class="ca-ab-sngle-item-ic">
+                                 <span><i class="fa-solid fa-check"></i></span>
+                              </div>
+                              <p>Quick Distribution: CLPL handles huge volumes of cargo everyday, runs a fl eet of trucks and tackles the entire string of logistics for its clients.</p> 
                         </div>
 
                         <h3 class="ca-thumb-title-2 theme-black-3 fnw-600 pt-40 ca-text-cap">Frequently Asked Question</h3><br><br>
@@ -120,12 +133,12 @@
                               <div class="ca-accordion-item ca-accordion-item-2 mb-24">
                                  <h2 class="ca-accordion-header" id="headingTwo">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                       How can logistics problems be reduced?
+                                       What is a 3PL warehouse?
                                     </button>
                                  </h2>
                                  <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
                                     <div class="ca-accordion-body">
-                                        <p>Curabitur aliquet quam id dui posuere blandit. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a.</p>
+                                        <p>A 3PL warehouse is a link in the supply chain that allows customers to utilize the receiving, storage, and distribution services of the 3PL so that they can have the flexibility to expand and contract as their business changes and not have to incur the costs associated with having to rent, maintain and operate their own warehouse. The 3PL warehouse allows the customer to focus on growing and expanding their core business and not the day to day handling of the product.</p>
                                     </div>
                                  </div>
                               </div>
@@ -133,12 +146,12 @@
                               <div class="ca-accordion-item ca-accordion-item-2 mb-24">
                                  <h2 class="ca-accordion-header" id="headingOne">
                                     <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                                       What is the best way to manage logistics?
+                                       How does a 3PL work?
                                     </button>
                                  </h2>
                                  <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
                                      <div class="ca-accordion-body">
-                                        <p>Curabitur aliquet quam id dui posuere blandit. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a.</p>
+                                        <p>A 3PL works by providing outsourced logistics services pertaining to the movement and management of customer goods from third parties. This can encompasses anything that involves management of one or more facets of procurement, fulfillment, Value Add Services (VAS) and shipping/receiving activities that involves storing or shipping items.</p>
                                     </div>
                                  </div>
                               </div>
@@ -146,12 +159,15 @@
                               <div class="ca-accordion-item ca-accordion-item-2 mb-24">
                                  <h2 class="ca-accordion-header" id="headingFour">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                                       How many types of logistics are there?
+                                       How many types of Warehouses are there?
                                     </button>
                                  </h2>
                                  <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#accordionExample">
                                      <div class="ca-accordion-body">
-                                        <p>Curabitur aliquet quam id dui posuere blandit. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a.</p>
+                                        <p>General warehouse<br>
+                                           A conventional storage facility that offers storage and various services to multiple customers on a rental basis. General warehouses may be more cost-effective for businesses that don't need duty deferral or customs supervision. </p>
+                                        <p>Customs bonded warehouse<br>
+                                           A secure storage facility that allows businesses to store imported goods without immediate payment of customs duties. Customs bonded warehouses are subject to customs supervision and management, and goods are not allowed to enter or leave the warehouse without customs approval. </p>
                                     </div>
                                  </div>
                               </div>
@@ -159,12 +175,12 @@
                               <div class="ca-accordion-item ca-accordion-item-2 mb-24">
                                  <h2 class="ca-accordion-header" id="headingThree">
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                        How many types of logistics problems?
+                                       What is the most important document when storing cargo at a Warehouse? 
                                     </button>
                                  </h2>
                                  <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
                                     <div class="ca-accordion-body">
-                                        <p>Curabitur aliquet quam id dui posuere blandit. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a.</p>
+                                        <p>An Insurance policy is absolutely required when storing cargo at a warehouse. It will be very helpful in case of an unfortunate incident</p>
                                     </div>
                                  </div>
                               </div>

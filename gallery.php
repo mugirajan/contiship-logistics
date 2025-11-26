@@ -32,7 +32,7 @@
                <div class="it-breadcum-link">
                   <a href="index.php">Home</a>
                   <span><i class="fa-solid fa-angle-right"></i></span>
-                  <a class="active" href="projects.php">Our Gallery</a>
+                  <a class="active" href="gallery.php">Our Gallery</a>
                </div>
             </div>
          </div>

@@ -93,7 +93,7 @@ $(document).ready(function () {
 
             let name = $("#name").val();
             let email = $("#email").val();
-            let phone = $("#phone").val();
+            let phone = $("#tel").val();
             let message = $("#message").val();
             let isvalid = true;
 
@@ -123,11 +123,11 @@ $(document).ready(function () {
             }
 
             if(phone == "") {
-                $("#phone").after('<p class="text-danger"> Phone field is required</p>');
-                $('#phone').closest('.form-group').addClass('has-error');
+                $("#tel").after('<p class="text-danger"> Phone field is required</p>');
+                $('#tel').closest('.form-group').addClass('has-error');
                 isvalid = false;
             } else {
-                $("#phone").closest('.form-group').removeClass('has-error').addClass('has-success');
+                $("#tel").closest('.form-group').removeClass('has-error').addClass('has-success');
             }	
 
             if(isvalid) {

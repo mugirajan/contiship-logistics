@@ -28,13 +28,13 @@
          </div>
          <div class="container">
             <div class="ca-breadcrumb-content text-center">
-               <h2 class="ca-breadcrumb-title fnw-600">Marine Insurance</h2>
+               <h2 class="ca-breadcrumb-title fnw-600">Expert Project Cargo Handling</h2>
                <div class="it-breadcum-link">
                   <a href="index.php">Home</a>
                   <span><i class="fa-solid fa-angle-right"></i></span>
                   <a href="service.php">Service</a>
                   <span><i class="fa-solid fa-angle-right"></i></span>
-                  <a class="active" href="#">Marine Insurance</a>
+                  <a class="active" href="#">Expert Project Cargo Handling</a>
                </div>
             </div>
          </div>
@@ -51,6 +51,7 @@
                      <!-- sidebar contact -->
                      <div class="ca-search ca-padding cream-bg-3 br-7 mb-30">
                         <h4 class="ca-title fnw-600 theme-black-3 pb-24">Get A Free Quote</h4>
+                        <div id="toast-container"></div>
                         <div class="ca-sidebar-form">
                            <form id="serviceForm" method="POST" action="">
                               <input type="text" placeholder="Your Name" id="name" name="name" required>
@@ -95,27 +96,23 @@
                <div class="col-lg-8 mb-30">
                   <div class="ca-service-content-area">
                      <div class="ca-servic-thumb br-7 mb-40">
-                        <img class="w-100" src="assets/contiship-logistics/service/single-service06/service.jpg" alt="">
+                        <img class="w-100" src="assets/contiship-logistics/service/single-service05/service.webp" alt="">
                      </div>
                      <div class="ca-servic-thumb-content">
-                        <h2 class="ca-service-thumb-title theme-black-3 fnw-600 ca-text-cap">Supply Chain Management</h2>
+                        <h2 class="ca-service-thumb-title theme-black-3 fnw-600 ca-text-cap">Expert Project Cargo Handling</h2>
                         
                         <div class="d-flex justify-content-center align-items-center pt-16">
                               <div class="ca-ab-sngle-item-ic">
                                  <span><i class="fa-solid fa-check"></i></span>
                               </div>
-                              <p>Navigating the complex waters of marine insurance: CLPL is the partner for the leading Marine Insurance Consultancy - TATA AIG for Import/Export and inland transit.</p>
+                              <p>Specialized Equipment and Expertise: From heavy machinery to oversized equipment, our specialized handling capabilities ensure safe and efficient transportation of your project cargo.</p>
                         </div>
                         <div class="d-flex justify-content-center align-items-center pt-16">
                               <div class="ca-ab-sngle-item-ic">
                                  <span><i class="fa-solid fa-check"></i></span>
                               </div>
-                              <p>With strong relationships with leading insurers and industry stakeholders, we can negotiate favorable terms and provide you with access to the best insurance products and services available.</p>
+                              <p>Customized Logistics Solutions: We understand that every project is unique. Our dedicated team develops tailored logistics solutions to meet your specifi c project requirements, delivering peace of mind and exceptional service every step of the way.</p>
                         </div>
-
-                        <p class="pt-16">
-                            CSS is the partner for the leading Marine Insurance Consultancy – TATA AIG which ensures your money value on the shipment is always safe and protected during any unwanted occurrences. CSS covers Marine Insurance for Import/Export and inland transit.
-                        </p>
 
                         <h3 class="ca-thumb-title-2 theme-black-3 fnw-600 pt-40 ca-text-cap">Frequently Asked Question</h3><br><br>
                         <div class="ca-acordion-area">

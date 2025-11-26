@@ -273,7 +273,7 @@
                   <div class="ca-single-pro-img-3 mb-30">
                      <img class="w-100" src="assets/contiship-logistics/home/gallery/1.jpg" alt="">
                      <div class="ca-project-hover-item1">
-                        <a href="projects.php" class="ca-project-hover-item1-icon">
+                        <a href="gallery.php" class="ca-project-hover-item1-icon">
                            <span><img src="assets/img/icon/ca-arow-3.1.svg" alt=""></span>
                         </a>
                         <div class="ca-project-hover-item-content">
@@ -288,7 +288,7 @@
                   <div class="ca-single-pro-img-3 mb-30">
                      <img class="w-100" src="assets/contiship-logistics/home/gallery/2.jpg" alt="">
                      <div class="ca-project-hover-item1">
-                        <a href="projects.php" class="ca-project-hover-item1-icon">
+                        <a href="gallery.php" class="ca-project-hover-item1-icon">
                            <span><img src="assets/img/icon/ca-arow-3.1.svg" alt=""></span>
                         </a>
                         <div class="ca-project-hover-item-content">
@@ -303,7 +303,7 @@
                   <div class="ca-single-pro-img-3 mb-30">
                      <img class="w-100" src="assets/contiship-logistics/home/gallery/3.jpg" alt="">
                      <div class="ca-project-hover-item1">
-                        <a href="projects.php" class="ca-project-hover-item1-icon">
+                        <a href="gallery.php" class="ca-project-hover-item1-icon">
                            <span><img src="assets/img/icon/ca-arow-3.1.svg" alt=""></span>
                         </a>
                         <div class="ca-project-hover-item-content">
@@ -318,7 +318,7 @@
                   <div class="ca-single-pro-img-3 mb-30">
                      <img class="w-100 pro-lar-img-1" src="assets/contiship-logistics/home/gallery/4.jpg" alt="">
                      <div class="ca-project-hover-item1">
-                        <a href="projects.php" class="ca-project-hover-item1-icon">
+                        <a href="gallery.php" class="ca-project-hover-item1-icon">
                            <span><img src="assets/img/icon/ca-arow-3.1.svg" alt=""></span>
                         </a>
                         <div class="ca-project-hover-item-content">
@@ -333,7 +333,7 @@
                   <div class="ca-single-pro-img-3 mb-30">
                      <img class="w-100 pro-lar-img-1" src="assets/contiship-logistics/home/gallery/5.jpg" alt="">
                      <div class="ca-project-hover-item1">
-                        <a href="projects.php" class="ca-project-hover-item1-icon">
+                        <a href="gallery.php" class="ca-project-hover-item1-icon">
                            <span><img src="assets/img/icon/ca-arow-3.1.svg" alt=""></span>
                         </a>
                         <div class="ca-project-hover-item-content">
