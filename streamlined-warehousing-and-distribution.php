@@ -3,7 +3,7 @@
 
 <head>
    <?php
-   $title = 'Service Left';
+   $title = ' Streamlined Warehousing and Distribution';
    include('partials/title-meta.php');
    ?>
 

@@ -3,7 +3,7 @@
 
 <head>
    <?php
-   $title = 'About';
+   $title = ' About Page';
    include('partials/title-meta.php');
    ?>
 

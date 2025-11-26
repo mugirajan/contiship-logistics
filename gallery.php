@@ -3,7 +3,7 @@
 
 <head>
    <?php
-   $title = 'Projects';
+   $title = ' Gallery Page';
    include('partials/title-meta.php');
    ?>
 

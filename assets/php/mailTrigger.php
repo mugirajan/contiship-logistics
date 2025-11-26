@@ -59,7 +59,7 @@ class sndMail
         try {
 
             $mail->clearAddresses(); 
-            $mail->addAddress("mugirajan95@gmail.com");
+            $mail->addAddress("admin@contiship.in");
             $mail->Subject = "New enquiry - " . $data['name'];
             $mail->Body = "
                 Contact details:
@@ -112,7 +112,7 @@ class sndMail
         try {
 
             $mail->clearAddresses(); 
-            $mail->addAddress("mugirajan95@gmail.com");
+            $mail->addAddress("admin@contiship.in");
             $mail->Subject = "New enquiry from service- " . $data['name'];
             $mail->Body = "
                 Contact details:

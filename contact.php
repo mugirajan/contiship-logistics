@@ -3,7 +3,7 @@
 
 <head>
    <?php
-   $title = 'Contact';
+   $title = ' Contact Page';
    include('partials/title-meta.php');
    ?>
 

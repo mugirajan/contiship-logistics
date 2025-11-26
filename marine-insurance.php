@@ -3,7 +3,7 @@
 
 <head>
    <?php
-   $title = 'Service Left';
+   $title = ' Marine Insurance';
    include('partials/title-meta.php');
    ?>
 

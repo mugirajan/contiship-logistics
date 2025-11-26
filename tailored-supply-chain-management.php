@@ -3,7 +3,7 @@
 
 <head>
    <?php
-   $title = 'Service Left';
+   $title = ' Tailored Supply Chain Management';
    include('partials/title-meta.php');
    ?>
 
